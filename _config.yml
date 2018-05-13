@@ -2,7 +2,7 @@ title:             Web Transfer
 email:             ranvir.singh1114@gmail.com
 description:       Blog of web transfer app
 author:            Ranvir Singh
-baseurl:           "/webtransfer"
+baseurl:           ""
 url:               "http://blog.webtransfer.co"
 
 # Social Profiles
